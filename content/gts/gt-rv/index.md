@@ -2,14 +2,13 @@
 title: Groupe de travail "Réalités virtuelles" (GT-RV)
 #subtitle: 'GdR IG-RV organise un prix de thèse IGRV avec le soutien des associations AFIG, AFRV et EGFR. L’objectif de ce prix de thèse est de récompenser chaque année une excellente thèse issue de la communauté du GdR IG-RV.'
 
-authors: ["Laure Leroy","Pierre Chevalier"]
+authors: ["Laure Leroy","Jean-Marie Normand"]
 date: 2021-06-21
 ---
 
 <img src="photo gtrv.png" height="300">
 
-* **Responsables** : Pierre Chevaillier (Lab-STICC/CERV, ENIB,
-Brest), Laure Leroy (Paragraphe, univ. Paris 8 / IRBA).
+* **Responsables** : Laure Leroy (Paragraphe, Univ. Paris 8 / IRBA), Jean-Marie Normand (AAU, École Centrale de Nantes).
 * **Mots-clés** : réalité virtuelle, réalité augmentée, interaction 3D, métaphores, interfaces, multi-modalité,
 perception, cognition, motricité, comportement, immersion, présence, usages, acceptabilité.
 
